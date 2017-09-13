@@ -1,3 +1,3 @@
 var recipes = {
-  ingredient: "turnips";
+  ingredient: "turnips"
 };
